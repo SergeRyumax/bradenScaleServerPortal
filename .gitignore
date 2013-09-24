@@ -4,3 +4,15 @@
 *.jar
 *.war
 *.ear
+
+# Maven #
+#########
+*/target/*
+
+# Other IDE's#
+##############
+\.classpath
+\.project
+\.settings
+\.dorsync
+/nbactions.xml
